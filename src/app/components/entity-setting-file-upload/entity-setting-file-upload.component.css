@@ -1,0 +1,13 @@
+.file{
+    display: grid;
+    place-items: center;
+
+}
+button{
+    color: mediumslateblue;
+}
+
+body{
+    background-color: #f29797;
+}
+
